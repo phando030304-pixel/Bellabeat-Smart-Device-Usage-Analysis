@@ -1,6 +1,6 @@
 # Bellabeat-Smart-Device-Usage-Analysis
 
-<img width="666" height="268" alt="Bellabeat" src="https://github.com/user-attachments/assets/c77e3836-4c2f-489b-a100-a0ea15898001" />
+<img width="800" height="268" alt="Bellabeat" src="https://github.com/user-attachments/assets/c77e3836-4c2f-489b-a100-a0ea15898001" />
 
 ## Overview
 This project is the second case study from the 
@@ -34,25 +34,22 @@ The objective of this project is to identify trends in smart device usage and pr
 Main tools used in this project:
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 
 ---
 
 ## Data Source
 
-The dataset used in this project is the Fitbit Fitness Tracker Data available on Kaggle.
+Dataset: Fitbit Fitness Tracker Data
 
-Data includes:
+Source: Kaggle (Mobius)
+
+The dataset contains fitness tracker data from 30 Fitbit users, including:
 
 - Daily activity
-- Daily steps
+- Steps
 - Calories burned
-- Sleep records
-- Activity intensity levels
+- Sleep tracking
+- Activity intensity
 
 ---
 
